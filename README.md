@@ -1,5 +1,7 @@
 # busybox
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/docker-armhf-busybox.svg)](https://www.guardrails.io)
+
 Fork of the [progrium's busybox project](https://github.com/progrium/busybox).
 
 Build a `Busybox` with `opkg`, for `armhf` targets from a `x86_64` build machine.
